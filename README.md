@@ -5,9 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/@devansh11371177" target="blank"><img src="https://img.shields.io/twitter/follow/@devansh11371177?logo=twitter&style=for-the-badge" alt="@devansh11371177" /></a> </p>
 
-- 🌱 I’m currently learning **spring Framework**
+- 🌱 I’m currently learning **spring Boot**
 
-- 💬 Ask me about **A technology lover💻, a nostalgic IGI guy who also loves playing CS-GO and just loves building new stuffs 💡. As a self-taught and motivated Backend Developer, I am passionate about maximizing team productivity using my creativity and analytic skills. I thrive on collaborating with other creative minds and enjoy working in a team environment. My strong communication skills allow me to seek assistance from colleagues when needed, ensuring that deadlines are always met.**
+- I'm a passionate backend developer with a strong focus on building scalable and efficient systems using Java and Spring Boot. I’m continuously learning, growing, and contributing to open-source projects to further sharpen my skills.
+  
+- About Me
+👨‍💻 Backend Developer: I specialize in building robust backend solutions using Java and modern frameworks like Spring Boot.
+
+🌱 Currently Learning: Exploring advanced topics such as Microservices architecture, RESTful APIs, Kafka, and Docker to enhance my skillset.
+
+💡 Open Source Contributor: I’m passionate about contributing to open-source Java projects and love collaborating with other developers to tackle complex challenges.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
