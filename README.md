@@ -29,9 +29,14 @@
 
 ---
 
+Here’s how you can incorporate the **Tech Stack** section with icons following the text description, as requested:
+
+---
+
 <h3 align="left">🛠️ Tech Stack</h3>
 
 **Languages:**  
+Java, SQL  
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </a>
@@ -40,6 +45,7 @@
 </a>
 
 **Frameworks & Tools:**  
+Spring Boot, Hibernate, Maven  
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 </a>
@@ -51,6 +57,7 @@
 </a>
 
 **Databases:**  
+MySQL, PostgreSQL  
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a>
@@ -59,6 +66,7 @@
 </a>
 
 **DevOps & Tools:**  
+Docker, Kubernetes, Jenkins  
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </a>
