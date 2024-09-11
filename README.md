@@ -1,4 +1,3 @@
-Here’s the updated **Tech Stack** section with icons included, along with the rest of your README:
 
 ---
 
@@ -69,6 +68,4 @@ Here’s the updated **Tech Stack** section with icons included, along with the 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devloperdevansh&" alt="GitHub Streak" /></p>
 
----
 
-This version incorporates icons for each element in your **Tech Stack**. You can use this updated format for your GitHub README! Let me know if you need more tweaks!
