@@ -1,4 +1,4 @@
-
+Here’s the updated **Tech Stack** section with icons included, along with the rest of your README:
 
 ---
 
@@ -29,53 +29,27 @@
 
 ---
 
-Here’s how you can incorporate the **Tech Stack** section with icons following the text description, as requested:
+### 🛠 Tech Stack
+
+- *Languages*: 
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
+  ![SQL](https://img.shields.io/badge/SQL-025E8C.svg?style=flat&logo=postgresql&logoColor=white)
+
+- *Frameworks & Tools*:
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-%234B6C3E.svg?style=flat&logo=hibernate&logoColor=white)
+  ![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=flat&logo=apache-maven&logoColor=white)
+
+- *Databases*:
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
+
+- *DevOps & Tools*:
+  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
 
 ---
-
-<h3 align="left">🛠️ Tech Stack</h3>
-
-**Languages:**  
-Java, SQL  
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>
-
-**Frameworks & Tools:**  
-Spring Boot, Hibernate, Maven  
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-</a>
-<a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> 
-</a>
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/> 
-</a>
-
-**Databases:**  
-MySQL, PostgreSQL  
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a>
-
-**DevOps & Tools:**  
-Docker, Kubernetes, Jenkins  
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-</a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-</a>
 
 ---
 
@@ -96,3 +70,5 @@ Docker, Kubernetes, Jenkins
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devloperdevansh&" alt="GitHub Streak" /></p>
 
 ---
+
+This version incorporates icons for each element in your **Tech Stack**. You can use this updated format for your GitHub README! Let me know if you need more tweaks!
